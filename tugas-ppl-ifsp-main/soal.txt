@@ -1,0 +1,18 @@
+Nama: Aldo Febrian
+NPM: 20312054
+Kode Soal: B
+
+1. Sistem apa yang anda kembangkan?
+Jawab: Sistem informasi terintegrasi Pelayanan Kesehatan
+
+2. Permasalahan apa yang terjadi pada studi kasus anda?
+Jawab: kendala yang dihadapi seperti antrian pada resepsionis, pengelolaan data pasien, data bidan, data RS rujukan dan pelaporan pembayaran yang masih menggunakan cara manual dapat diminimalisasi dan sesuai yang diharapkan.
+
+3. Apa solusi yang dapat anda berikan pada permasalahan tersebut?
+Jawab: Peningkatan Proses: Memperkenalkan perbaikan proses dalam sistem kesehatan untuk mengurangi waktu tunggu.
+
+4. Apa yang menjadi nilai lebih solusi yang anda hadirkan dari sistem/solusi yang sudah ada?
+Jawab: Mempermudah pelayanan kesehatan di daerah dengan sistem yang kami buat, agar kebutuhan masyarakat dapat terpenuhi dan memudahkan untuk digunakan dalam jangka panjang.
+
+5. Apa saja kendala dan resiko yang mungkin akan anda hadapi selama pengembangan sistem?
+Jawab: Pengembangan Sistem: Ini mencakup biaya untuk pengembangan perangkat lunak, perangkat keras, dan lisensi perangkat lunak yang diperlukan untuk sistem informasi terintegrasi. Estimasi biaya ini adalah $X.

@@ -1,0 +1,9 @@
+Nama: Aldo Febrian
+NPM: 20312054
+Prodi: Informatika
+
+Link hasil perencanaan sistem menggunakan BRD:
+*https://drive.google.com/drive/folders/1x7vHvix_rgVStPYwoGqWI0c9WKtNqmCD?usp=sharing*
+
+Link hasil perencanaan sistem menggunakan Trello:
+*https://trello.com/invite/b/pdkcdUEQ/ATTIb6e8ac7953785595d11eb46ed1a560ac5A0ACCD8/pelayanan-kesehatan*
